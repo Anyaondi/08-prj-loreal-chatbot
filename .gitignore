@@ -1,2 +1,5 @@
 # Secrets file containing API keys
+# API keys and secrets
 secrets.js
+.env
+.env.local
